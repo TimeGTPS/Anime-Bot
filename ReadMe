@@ -1,0 +1,25 @@
+Welcome To My Anime Bot GitHub 
+
+This Source Is Open To Public!
+
+Enjoy!
+
+
+how to setup config.json!
+
+1. make config,json file
+
+2. in it do this 
+
+
+{
+    "token": "bot-token",
+    "everyoneMention": false,
+    "hostedBy": true,
+    "YOUTUBE_API_KEY": "if u want",
+    "SOUNDCLOUD_CLIENT_ID": "if u want",
+    "default_prefix": "a+"
+}
+
+4. Open Start Bat!
+  
